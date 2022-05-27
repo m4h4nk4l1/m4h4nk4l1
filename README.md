@@ -14,8 +14,8 @@ you may follow me on GitHub, LinkedIn and Twitter.
 <div>
 <a href="https://www.linkedin.com/in/mahankali-phani-manohar/" target="_blank"><img src='./images/linkedin.svg' alt='LinkedIn' width="3%"></a>
 <a href="https://twitter.com/mahankalicode" target="_blank"><img src='./images/twitter.svg' alt='Twitter' width="3%" title='@Asabeneh'></a>
-my other github account is <a href="https://github.com/mahankalisec" target="_blank"></a>
 <a href="mailto:m4h4nk4l1@gmail.com"><img src='./images/gmail.svg' alt='gmail' width="3%"></a>
+  <p>my other github account is <a href="https://github.com/mahankalisec" target="_blank">mahankalisec</a></p>
 
 </div>
 
