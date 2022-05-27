@@ -8,7 +8,7 @@ I'm a CS student
 I’m interested in blockchain and web3
 I’m currently learning ethereum 
 I’m looking to collaborate on dapps
-my other github account is @mahankalisec it's about security
+my other github account is <a href="github.com/mahankalisec">@mahankalisec</a> it's about security
 you may follow me on GitHub, LinkedIn and Twitter.  
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=m4h4nk4l1)]
